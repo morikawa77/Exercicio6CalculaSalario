@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio6CalculaSalario/bin/Debug/Exercicio6CalculaSalario.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio6CalculaSalario/bin/Debug/Exercicio6CalculaSalario.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio6CalculaSalario/obj/x86/Debug/Exercicio6CalculaSalario.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio6CalculaSalario/obj/x86/Debug/Exercicio6CalculaSalario.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio6CalculaSalario/obj/x86/Debug/Exercicio6CalculaSalario.pdb
